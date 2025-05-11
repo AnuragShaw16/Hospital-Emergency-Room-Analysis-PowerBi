@@ -1,1 +1,2 @@
 # Hospital-Emergency-Room-Analysis-PowerBi
+This Power BI project delivers a comprehensive analysis of emergency room (ER) operations and patient flow in a hospital setting. The dashboard is designed to help healthcare administrators monitor critical metrics like patient wait times, triage levels, admission rates, and peak hours. The goal is to enhance operational efficiency and improve patient care through data-driven insights.
